@@ -1,0 +1,5 @@
+django
+djangorestframework
+pillow
+django-mathfilters
+argon2-cffi
